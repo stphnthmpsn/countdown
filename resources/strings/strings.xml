@@ -1,0 +1,9 @@
+<strings>
+    <string id="AppName">Countdown</string>
+    <string id="Paused">Paused</string>
+    <string id="Running"></string>
+    <string id="Stopped">Press Start!</string>
+    <string id="Finished"></string>
+    <string id="IntervalTitle">Duration</string>
+    <string id="TimeSeparator">:</string>
+</strings>
